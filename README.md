@@ -1,5 +1,5 @@
 - 👋 Hi, I’m KELTON-DEL
-- 👀 I’m interested in ..FRONT END ENGINEER.
+- 👀 I’m interested in ..FRONT END ENGINEERING.
 - 🌱 I’m currently learning ...SOFTWARE ENGINEERING
 - 💞️ I’m looking to collaborate on ..WEB DESIGN.
 - 📫 How to reach me ..EMAIL; nasitsikel@gmail.com
