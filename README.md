@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ..WEB DESIGN.
 - 📫 How to reach me ..EMAIL; nasitsikel@gmail.com
 -  MY WHATSAPP  NUMBER_(+254)0111237896
-- am good at....JAVA SCRIPT,HTML,CSS
+- am good at....JAVASCRIPT,REACT,HTML,CSS
 - ⚡ Fun fact: ...I LIKE CODING
 
 <!---
