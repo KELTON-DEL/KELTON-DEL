@@ -1,4 +1,4 @@
-- 👋 Hi, I’m KELTON-DEL
+- 👋 Hi, I’m KELTON
 - 👀 I’m interested in ..FRONT END ENGINEERING.
 - 🌱 I’m currently learning ...SOFTWARE ENGINEERING
 - 💞️ I’m looking to collaborate on ..WEB DESIGN.
